@@ -38,7 +38,7 @@ With the addition of REST API technology, the application benefits from a standa
 
 * React Hooks: A React feature that allows you to use state and other React features in functional components, without having to write classes.
 
-* Demonstrative images from the admin panel:
+* Demonstrative images frontend:
 
 <img src="./DemonstrativeImages/front1.JPG"/>
 <img src="./DemonstrativeImages/front2.JPG"/>
